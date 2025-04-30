@@ -1,0 +1,237 @@
+"date","time","country","age","n_group","n_manta","dive_level","is_first_time","pc","pick_n_divers","n_diver_A","n_diver_B","n_diver_C","n_diver_D","n_diver_E","n_diver_F","pick_n_boats","n_boats_A","n_boats_B","n_boats_C","n_boats_D","n_boats_E","n_boats_F","dc","diver_norms","boat_norms","date_time","obs_boat","boat_RE","diver_RE","fewer_boat_UL","more_boat_UL","fewer_boat_RE","more_boat_RE","fewer_diver_RE","more_diver_RE"
+"09/02/2024","10:00","Indonesia",32,5,2,"Professional Diver","N",9,5,4,3,2,1,-1,-2,6,4,3,2,1,-1,-2,"OG",9,40,"2024-09-02 10:00:00",NA,55,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/06/2024","11:00","Indonesia",27,8,7,"Professional Diver","N",7,5,4,3,-3,-4,-4,-4,3,4,-1,-3,-4,-4,-4,"Others",5,13,"2024-09-06 11:00:00",NA,25,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/07/2024","08:00","Finland",35,4,2,"Try Scuba / DSD","Y",NA,5,4,4,3,-1,-1,-4,3,4,1,-2,-3,-3,-3,"SDI",8.25,18.3333333333333,"2024-09-07 08:00:00",NA,25,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/07/2024","08:00","Austria",22,10,4,"Try Scuba / DSD","Y",7,4,NA,NA,NA,-3,NA,NA,5,NA,NA,NA,NA,-4,NA,"SDI",NA,NA,"2024-09-07 08:00:00",NA,45,8,NA,NA,NA,NA,NA,NA
+"09/07/2024","08:00","Belgium",29,4,2,"Try Scuba / DSD","Y",NA,6,4,3,3,-1,-2,-4,4,4,2,0,-3,-4,-4,"SDI",7.25,25,"2024-09-07 08:00:00",NA,35,12,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/07/2024","08:00","Belgium",30,4,3,"Try Scuba / DSD","Y",7,5,NA,NA,NA,NA,-2,NA,4,NA,NA,NA,-2,NA,NA,"SDI",NA,NA,"2024-09-07 08:00:00",NA,35,10,NA,NA,NA,NA,NA,NA
+"09/07/2024","08:30","United Kingdom",26,4,4,"Advanced Open Water Diver","Y",5,4,4,4,4,3,3,0,3,4,4,3,3,2,1,"SDI",12,-5,"2024-09-07 08:30:00",NA,25,8,NA,NA,FALSE,TRUE,TRUE,FALSE
+"09/07/2024","08:30","Malaysia",34,3,3,"Open Water Diver","Y",NA,5,NA,NA,NA,NA,NA,NA,4,4,3,1,-2,-3,-4,"SDI",NA,28.3333333333333,"2024-09-07 08:30:00",NA,35,10,NA,NA,FALSE,TRUE,NA,NA
+"09/07/2024","08:30","Germany",32,4,4,"Advanced Open Water Diver","Y",NA,4,4,4,3,2,0,-1,NA,4,3,3,1,-1,-2,"SDI",10,40,"2024-09-07 08:30:00",NA,NA,8,NA,NA,NA,NA,TRUE,FALSE
+"09/07/2024","09:05","Finland",40,5,4,"Advanced Open Water Diver","Y",8,5,NA,NA,NA,NA,-4,NA,5,NA,NA,NA,NA,-4,NA,"SDI",NA,NA,"2024-09-07 09:05:00",NA,45,10,NA,NA,NA,NA,NA,NA
+"09/07/2024","09:30","",35,3,3,"Open Water Diver","Y",NA,4,4,4,1,-2,-3,-4,4,4,3,0,-2,-4,-4,"SDI",6.66666666666667,25,"2024-09-07 09:30:00",NA,35,8,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/07/2024","10:00","Finland",NA,5,3,"Open Water Diver","Y",8,5,NA,NA,NA,NA,-3,NA,5,NA,NA,NA,NA,-4,NA,"SDI",NA,NA,"2024-09-07 10:00:00",NA,45,10,NA,NA,NA,NA,NA,NA
+"09/08/2024","8:40","United Kingdom",45,4,8,"Professional Diver","N",8,6,4,4,3,2,-2,-4,5,4,4,1,0,-2,-4,"BC",9,35,"2024-09-08 08:40:00",NA,45,12,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/09/2024","10:20","Germany",42,4,NA,"Advanced Open Water Diver","N",NA,3,NA,NA,-1,NA,NA,NA,3,NA,NA,1,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Germany",50,4,20,"Rescue Diver","Y",NA,3,NA,NA,-1,NA,NA,NA,3,NA,NA,1,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Germany",48,4,15,"Advanced Open Water Diver","Y",NA,3,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","United Kingdom",35,1,NA,"Advanced Open Water Diver","Y",NA,3,NA,NA,1,NA,NA,NA,3,NA,NA,1,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Germany",68,4,NA,"Rescue Diver","Y",NA,3,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,35,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Australia",38,4,NA,"Rescue Diver","N",NA,3,NA,NA,0,NA,NA,NA,3,NA,NA,0,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Netherlands",34,NA,NA,"Advanced Open Water Diver","N",NA,4,NA,NA,NA,-2,NA,NA,3,NA,NA,-1,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,8,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Germany",42,4,10,"Advanced Open Water Diver","Y",NA,3,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,35,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Netherlands",33,5,NA,"Advanced Open Water Diver","N",NA,3,NA,NA,-1,NA,NA,NA,3,NA,NA,0,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/09/2024","10:20","Netherlands",63,5,NA,"","",NA,3,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-09 10:20:00",30,35,6,NA,NA,NA,NA,NA,NA
+"09/10/2024","9:00","Belgium",25,8,7,"Try Scuba / DSD","Y",5,3,4,3,1,-1,-2,-4,3,4,3,1,-1,-3,-4,"BFD",7,30,"2024-09-10 09:00:00",47,25,6,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/11/2024","8:30","Australia",32,3,9,"Rescue Diver","N",9,4,0,-1,-4,-3,-3,-3,4,0,0,-2,-4,-4,-4,"SDI",2,10,"2024-09-11 08:30:00",40,35,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/11/2024","9:10","France",39,4,3,"Professional Diver","N",6,2,4,2,0,-2,-3,-4,3,4,4,0,0,-4,-4,"Purple",6,30,"2024-09-11 09:10:00",40,25,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/11/2024","9:15","Spain",32,4,4,"Open Water Diver","Y",6,2,4,4,-2,-4,-4,-4,4,4,4,4,-3,-4,-4,"BFD",5,26.4285714285714,"2024-09-11 09:15:00",40,35,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/12/2024","9:00","France",45,4,5,"Advanced Open Water Diver","Y",8,4,4,4,2,0,0,-3,5,4,4,4,0,-4,-4,"Purple",9,35,"2024-09-12 09:00:00",44,45,8,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/13/2024","08:00","",21,4,12,"Professional Diver","N",NA,6,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-13 08:00:00",NA,55,12,NA,NA,NA,NA,NA,NA
+"09/13/2024","08:30","Poland",32,4,6,"Open Water Diver","Y",6,5,NA,NA,NA,NA,-1,NA,5,NA,NA,NA,NA,-1,NA,"BFD",NA,NA,"2024-09-13 08:30:00",47,45,10,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:00","Singapore",25,4,4,"Open Water Diver","Y",5,5,4,3,2,-2,1,-4,3,4,0,-1,-2,-3,-4,"DC",9.33333333333333,15,"2024-09-13 09:00:00",47,25,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/13/2024","09:00","Denmark",26,4,3,"Open Water Diver","Y",3,2,4,2,-1,-4,0,-4,5,4,3,-1,-2,-2,-1,"DC",10,33.75,"2024-09-13 09:00:00",47,45,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/13/2024","09:00","Spain",22,4,4,"Open Water Diver","Y",8,4,4,3,0,-3,-2,-4,3,4,1,-1,-4,-4,-4,"DC",6,20,"2024-09-13 09:00:00",47,25,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/13/2024","09:00","United Kingdom",30,NA,4,"Open Water Diver","N",NA,6,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-13 09:00:00",47,55,12,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:00","France",28,4,3,"Advanced Open Water Diver","N",NA,6,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-13 09:00:00",47,55,12,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:00","Denmark",43,4,6,"Open Water Diver","N",7,6,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-13 09:00:00",47,55,12,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:30","Denmark",28,4,4,"Open Water Diver","Y",NA,4,4,4,2,0,0,-3,3,4,3,1,-2,-3,-3,"DC",9,28.3333333333333,"2024-09-13 09:30:00",47,25,8,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/13/2024","09:30","Italy",55,4,6,"Professional Diver","Y",5,3,NA,NA,2,NA,NA,NA,3,NA,NA,2,NA,NA,NA,"BFD",NA,NA,"2024-09-13 09:30:00",47,25,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:30","Australia",60,4,3,"Advanced Open Water Diver","Y",6,3,NA,NA,-1,NA,NA,NA,3,NA,NA,-1,NA,NA,NA,"BFD",NA,NA,"2024-09-13 09:30:00",47,25,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:30","Pakistan",42,2,3,"Try Scuba / DSD","Y",3,3,NA,NA,-2,NA,NA,NA,3,NA,NA,-3,NA,NA,NA,"BFD",NA,NA,"2024-09-13 09:30:00",47,25,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","09:30","Australia",33,2,2,"Advanced Open Water Diver","",1,3,NA,NA,-3,NA,NA,NA,4,NA,NA,NA,-2,NA,NA,"BFD",NA,NA,"2024-09-13 09:30:00",47,35,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","9:30","France",27,4,10,"Professional Diver","N",7,4,4,3,0,-2,-3,-4,6,4,3,1,-2,-3,-4,"DC",6,28.3333333333333,"2024-09-13 09:30:00",47,55,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/13/2024","11:00","United States",21,4,3,"Advanced Open Water Diver","N",5,3,1,-1,-3,-4,-4,-4,3,3,-1,-3,-4,-4,-4,"DC",3,12.5,"2024-09-13 11:00:00",36,25,6,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/13/2024","11:00","United States",27,4,3,"Advanced Open Water Diver","N",2,1,4,4,1,0,0,-3,2,4,4,2,0,-1,-2,"DC",9,35,"2024-09-13 11:00:00",36,15,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/13/2024","11:00","Thailand",36,3,3,"Advanced Open Water Diver","Y",NA,3,NA,NA,0,NA,NA,NA,3,NA,NA,-1,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,25,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",30,4,3,"Advanced Open Water Diver","Y",8,6,NA,NA,NA,NA,NA,-3,3,NA,NA,0,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,25,12,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",NA,NA,NA,"","",5,3,NA,NA,0,NA,NA,NA,3,NA,NA,-1,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,25,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",31,9,3,"Rescue Diver","Y",7,5,NA,NA,NA,NA,-2,NA,2,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,15,10,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",36,4,3,"Advanced Open Water Diver","Y",NA,5,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,25,10,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",37,3,3,"Advanced Open Water Diver","N",6,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,NA,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",41,3,3,"Advanced Open Water Diver","Y",NA,3,4,3,0,0,-2,-4,2,4,4,-1,-4,-4,-4,"WD",7,22,"2024-09-13 11:00:00",36,15,6,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/13/2024","11:00","Thailand",30,3,6,"Advanced Open Water Diver","Y",7,1,1,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,25,2,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Thailand",27,4,7,"Professional Diver","N",6,3,NA,NA,-1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-13 11:00:00",36,25,6,NA,NA,NA,NA,NA,NA
+"09/13/2024","11:00","Belgium",30,7,6,"Open Water Diver","Y",7,5,-4,-4,-4,-3,-2,-1,2,4,3,2,1,0,-1,"Purple",0,45,"2024-09-13 11:00:00",36,15,10,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+"09/13/2024","11:15","France",25,3,5,"Open Water Diver","Y",4,2,NA,2,NA,NA,NA,NA,2,NA,2,NA,NA,NA,NA,"DC",NA,NA,"2024-09-13 11:15:00",36,15,4,NA,NA,NA,NA,NA,NA
+"09/14/2024","09:30","France",NA,3,6,"Try Scuba / Try Scuba / DSD","Y",NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"BANP",NA,NA,"2024-09-14 09:30:00",33,NA,8,NA,NA,NA,NA,NA,NA
+"09/15/2024","7:20","United Kingdom",33,4,2,"Professional Diver","Y",8,2,-2,-2,-2,-2,-2,-2,4,0,-1,-2,-3,-4,-4,"BC",NA,5,"2024-09-15 07:20:00",8,35,4,FALSE,TRUE,FALSE,TRUE,NA,NA
+"09/15/2024","08:00","China",26,2,6,"Open Water Diver","Y",5,5,NA,NA,NA,NA,-1,NA,NA,NA,NA,NA,NA,NA,NA,"BANP",NA,NA,"2024-09-15 08:00:00",60,NA,10,NA,NA,NA,NA,NA,NA
+"09/15/2024","8:00","United Kingdom",31,3,3,"Professional Diver","N",2,1,3,1,-2,-2,-2,-3,2,4,1,0,-2,-3,-4,"BC",5.33333333333333,25,"2024-09-15 08:00:00",60,15,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/15/2024","09:13","Germany",31,4,6,"Open Water Diver","Y",NA,3,NA,NA,4,NA,NA,NA,5,NA,NA,NA,NA,4,NA,"BANP",NA,NA,"2024-09-15 09:13:00",60,45,6,NA,NA,NA,NA,NA,NA
+"09/15/2024","10:30","Indonesia",32,4,2,"Advanced Open Water Diver","N",8,6,NA,NA,NA,NA,NA,-4,4,NA,NA,NA,-3,NA,NA,"DC",NA,NA,"2024-09-15 10:30:00",NA,35,12,NA,NA,NA,NA,NA,NA
+"09/15/2024","11:00","United Kingdom",38,8,5,"Advanced Open Water Diver","Y",9,4,4,4,0,-4,-4,-4,5,4,4,1,-1,-3,-4,"WD",6,30,"2024-09-15 11:00:00",NA,45,8,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","7:30","Netherlands",37,8,6,"Try Scuba / DSD","Y",9,6,4,4,-1,-2,-2,-2,5,4,3,-1,-4,-4,-4,"CD",5.4,22.5,"2024-09-17 07:30:00",10,45,12,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","8:00","Netherlands",38,10,8,"Open Water Diver","N",9,6,4,3,0,-3,-3,-4,5,4,3,0,-2,-4,-4,"CD",6,25,"2024-09-17 08:00:00",10,45,12,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","8:57","Switzerland",23,4,8,"Advanced Open Water Diver","Y",7,4,-1,-1,-2,-4,-4,-4,3,-1,-1,-1,-2,-4,-4,"OG",0,-5,"2024-09-17 08:57:00",40,25,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","9:00","France",29,12,5,"Try Scuba / DSD","Y",5,2,2,2,0,0,-1,-2,3,2,2,0,0,-2,-2,"Purple",7,30,"2024-09-17 09:00:00",65,25,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/17/2024","11:00","France",27,4,9,"","Y",5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-17 11:00:00",65,NA,NA,NA,NA,NA,NA,NA,NA
+"09/17/2024","11:00","United Kingdom",57,16,20,"Advanced Open Water Diver","Y",6,5,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-17 11:00:00",65,45,10,NA,NA,NA,NA,NA,NA
+"09/17/2024","11:00","Italy",37,15,30,"Open Water Diver","Y",6,3,4,3,0,-2,-4,-4,3,4,1,-1,-2,-4,-4,"WD",6,20,"2024-09-17 11:00:00",65,25,6,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/17/2024","11:00","Australia",48,12,35,"Advanced Open Water Diver","N",8,6,4,3,-3,-1,-2,-4,4,4,4,1,-2,-3,-4,"WD",7,28.3333333333333,"2024-09-17 11:00:00",65,35,12,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","11:00","Belgium",28,16,25,"Advanced Open Water Diver","Y",7,5,4,3,2,-2,-3,-4,4,4,3,-1,-2,-4,-4,"WD",7,22.5,"2024-09-17 11:00:00",65,35,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","11:00","Belgium",30,20,25,"Advanced Open Water Diver","Y",7,4,4,4,1,-2,-4,-4,5,4,4,-1,-2,-4,-4,"WD",6.66666666666667,22,"2024-09-17 11:00:00",65,45,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","11:00","United Kingdom",57,16,20,"Advanced Open Water Diver","Y",NA,NA,4,2,-2,-3,-3,-4,3,4,4,2,-1,-4,-4,"WD",5,31.6666666666667,"2024-09-17 11:00:00",65,25,NA,FALSE,TRUE,TRUE,FALSE,NA,NA
+"09/17/2024","11:00","Indonesia",26,4,20,"Advanced Open Water Diver","N",8,5,3,3,1,-2,-3,-4,4,4,3,1,-1,-3,-4,"WD",6.66666666666667,30,"2024-09-17 11:00:00",65,35,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","11:00","Indonesia",27,4,20,"Professional Diver","N",8,6,3,2,1,-3,-3,-4,5,4,3,1,1,-2,-2,"WD",6.75,36.6666666666667,"2024-09-17 11:00:00",65,45,12,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","11:00","Netherlands",33,12,15,"Open Water Diver","Y",4,2,4,3,2,-1,-1,-4,3,4,4,4,2,1,-1,"BC",8,50,"2024-09-17 11:00:00",65,25,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/17/2024","11:25","United Kingdom",63,11,20,"Professional Diver","N",8,5,0,0,0,0,4,0,5,0,0,0,0,-4,0,"WD",6.4,27,"2024-09-17 11:25:00",50,45,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/17/2024","11:30","Spain",45,3,5,"Advanced Open Water Diver","Y",6,1,0,0,0,0,0,0,4,4,4,-4,-4,-4,-4,"BC",NA,25,"2024-09-17 11:30:00",50,35,2,FALSE,TRUE,FALSE,TRUE,NA,NA
+"09/18/2024","07:30","China",32,3,5,"Advanced Open Water Diver","N",6,3,4,2,1,-4,-4,-4,2,4,2,-2,-4,-4,-4,"DC",6.8,20,"2024-09-18 07:30:00",NA,15,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","08:00","Belgium",23,4,5,"Open Water Diver","Y",5,1,4,3,0,-1,-1,-3,2,3,1,-1,1,-2,-3,"WD",6,25,"2024-09-18 08:00:00",NA,15,2,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","08:00","Germany",30,5,5,"Open Water Diver","Y",7,5,4,4,1,0,0,-1,5,4,1,0,0,-2,-2,"WD",9,30,"2024-09-18 08:00:00",NA,45,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/18/2024","08:00","Germany",32,4,8,"Advanced Open Water Diver","Y",7,3,2,-1,-3,-4,-4,-4,NA,4,-1,-2,-4,-4,-4,"WD",3.33333333333333,13,"2024-09-18 08:00:00",NA,NA,6,NA,NA,NA,NA,FALSE,TRUE
+"09/18/2024","08:00","Belgium",30,4,5,"Open Water Diver","Y",5,3,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-18 08:00:00",NA,25,6,NA,NA,NA,NA,NA,NA
+"09/18/2024","08:00","Belgium",35,5,5,"Open Water Diver","Y",5,5,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,"WD",NA,NA,"2024-09-18 08:00:00",NA,15,10,NA,NA,NA,NA,NA,NA
+"09/18/2024","08:00","Ireland",32,4,4,"Advanced Open Water Diver","Y",4,2,4,4,3,0,-1,-1,3,4,1,0,-3,-4,-4,"DC",8,25,"2024-09-18 08:00:00",NA,25,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","08:00","Brazil",32,2,6,"Try Scuba / DSD","Y",5,4,4,4,2,0,-2,-4,2,4,2,-1,-4,-4,-4,"DC",8,21.6666666666667,"2024-09-18 08:00:00",NA,15,8,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","08:00","United States",33,2,6,"Try Scuba / DSD","Y",6,2,4,3,2,-4,-4,-4,NA,4,3,0,-2,-3,-4,"DC",7.33333333333333,25,"2024-09-18 08:00:00",NA,NA,4,NA,NA,NA,NA,TRUE,FALSE
+"09/18/2024","08:00","France",31,8,6,"Try Scuba / DSD","Y",6,2,4,4,-1,-4,-3,-4,3,4,2,1,-2,-4,-4,"DC",5.4,28.3333333333333,"2024-09-18 08:00:00",NA,25,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","08:00","France",29,4,6,"Try Scuba / DSD","Y",6,3,4,2,1,-2,-4,-4,2,4,4,-1,-4,-3,-4,"DC",6.66666666666667,22,"2024-09-18 08:00:00",NA,15,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","08:00","Switzerland",37,5,8,"Advanced Open Water Diver","Y",6,5,4,4,2,-2,-3,-4,NA,4,2,-1,-2,-3,-4,"DC",7,21.6666666666667,"2024-09-18 08:00:00",NA,NA,10,NA,NA,NA,NA,FALSE,TRUE
+"09/18/2024","08:00","Ireland",37,4,3,"Advanced Open Water Diver","N",5,3,4,2,1,-2,-3,-4,4,4,3,2,-2,-3,-4,"DC",6.66666666666667,30,"2024-09-18 08:00:00",NA,35,6,NA,NA,FALSE,TRUE,TRUE,FALSE
+"09/18/2024","08:00","United Kingdom",52,7,3,"Advanced Open Water Diver","N",8,3,4,0,-2,-3,-3,-4,4,4,1,-1,-4,-3,-4,"DC",4,20,"2024-09-18 08:00:00",NA,35,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/18/2024","09:00","France",24,4,3,"Open Water Diver","Y",4,3,3,2,-1,-2,-2,-4,4,3,2,0,-1,-3,-4,"DC",5.33333333333333,25,"2024-09-18 09:00:00",35,35,6,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/18/2024","09:00","United Kingdom",56,2,5,"Advanced Open Water Diver","Y",3,2,4,4,0,-2,-1,-2,2,4,2,0,-1,-3,-4,"DC",6,25,"2024-09-18 09:00:00",35,15,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/18/2024","09:00","Indonesia",21,3,7,"","N",9,6,2,1,-4,-2,-4,-4,6,1,-4,-4,-4,-4,-4,"DC",5.33333333333333,11,"2024-09-18 09:00:00",35,55,12,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/18/2024","10:00","",NA,4,6,"Advanced Open Water Diver","Y",7,5,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-18 10:00:00",35,25,10,NA,NA,NA,NA,NA,NA
+"09/18/2024","10:00","Indonesia",32,4,3,"Advanced Open Water Diver","N",4,3,1,0,0,-2,-3,-3,2,3,1,0,-3,-4,-4,"DC",5,25,"2024-09-18 10:00:00",35,15,6,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+"09/18/2024","11:00","France",32,4,3,"Advanced Open Water Diver","Y",6,3,4,3,1,-1,-2,-4,3,4,2,-1,-2,-3,-4,"DC",7,21.6666666666667,"2024-09-18 11:00:00",31,25,6,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/18/2024","11:00","France",35,4,2,"Advanced Open Water Diver","Y",6,3,NA,NA,0,NA,NA,NA,3,4,3,2,-3,-4,-4,"DC",NA,29,"2024-09-18 11:00:00",31,25,6,FALSE,TRUE,TRUE,FALSE,NA,NA
+"09/18/2024","11:00","France",27,4,2,"Advanced Open Water Diver","Y",6,4,NA,NA,NA,1,NA,NA,3,NA,NA,0,NA,NA,NA,"DC",NA,NA,"2024-09-18 11:00:00",31,25,8,NA,NA,NA,NA,NA,NA
+"09/18/2024","11:00","France",27,4,3,"Advanced Open Water Diver","Y",6,5,NA,NA,NA,NA,-2,NA,2,NA,0,NA,NA,NA,NA,"DC",NA,NA,"2024-09-18 11:00:00",31,15,10,NA,NA,NA,NA,NA,NA
+"09/19/2024","8:00","France",27,8,10,"Try Scuba / DSD","Y",6,3,4,4,4,4,4,4,5,4,4,4,0,-2,-2,"Purple",NA,35,"2024-09-19 08:00:00",NA,45,6,NA,NA,FALSE,TRUE,NA,NA
+"09/19/2024","09:00","Australia",28,3,3,"Open Water Diver","Y",NA,1,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-19 09:00:00",NA,25,2,NA,NA,NA,NA,NA,NA
+"09/19/2024","09:00","Spain",36,2,6,"Professional Diver","Y",8,1,4,-4,-4,-4,-4,-4,5,4,2,-1,-2,-3,-4,"BFD",5,21.6666666666667,"2024-09-19 09:00:00",NA,45,2,NA,NA,FALSE,TRUE,TRUE,FALSE
+"09/19/2024","9:30","France",25,8,4,"Open Water Diver","Y",8,3,-4,-3,-1,-2,-3,-4,4,-4,-3,-2,-1,-4,-4,"Purple",0,-5,"2024-09-19 09:30:00",NA,35,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"9/19/2024","11:00","United Kingdom",66,5,6,"Rescue Diver","N",7,3,0,-1,-1,-3,-1,-2,5,0,0,0,0,-3,-3,"SJP",2,20,"2024-09-19 11:00:00",NA,45,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/20/2024","9:30","Australia",34,6,5,"Rescue Diver","Y",9,5,4,4,-2,-3,-4,-4,6,4,3,1,-4,-4,-4,"BC",5,29,"2024-09-20 09:30:00",40,55,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/20/2024","9:35","Australia",39,6,5,"Advanced Open Water Diver","Y",8,4,4,3,0,-2,-4,-4,4,3,-1,-4,-4,-4,-4,"BC",6,12.5,"2024-09-20 09:35:00",40,35,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/21/2024","08:00","France",29,4,2,"Open Water Diver","Y",NA,3,NA,NA,-1,NA,NA,NA,4,NA,NA,NA,1,NA,NA,"DC",NA,NA,"2024-09-21 08:00:00",53,35,6,NA,NA,NA,NA,NA,NA
+"09/21/2024","08:00","Brazil",51,5,5,"Open Water Diver","Y",NA,3,NA,NA,1,NA,NA,NA,5,NA,NA,NA,NA,-1,NA,"DC",NA,NA,"2024-09-21 08:00:00",53,45,6,NA,NA,NA,NA,NA,NA
+"09/21/2024","08:00","France",31,4,2,"Advanced Open Water Diver","Y",NA,5,4,3,1,-3,-4,-4,5,4,4,4,-4,-4,-4,"DC",6.5,30,"2024-09-21 08:00:00",53,45,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/21/2024","08:00","Germany",28,8,5,"Try Scuba / DSD","Y",3,NA,NA,0,NA,NA,NA,NA,3,NA,NA,-2,NA,NA,NA,"DC",NA,NA,"2024-09-21 08:00:00",53,25,NA,NA,NA,NA,NA,NA,NA
+"09/21/2024","08:30","France",NA,NA,5,"Advanced Open Water Diver","Y",NA,6,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-21 08:30:00",53,35,12,NA,NA,NA,NA,NA,NA
+"09/21/2024","08:30","France",32,4,6,"Rescue Diver","N",NA,5,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-21 08:30:00",53,45,10,NA,NA,NA,NA,NA,NA
+"09/21/2024","09:00","France",33,4,2,"Advanced Open Water Diver","Y",NA,5,4,3,-2,-3,-4,-4,5,4,4,3,-1,-3,-4,"DC",5.2,32.5,"2024-09-21 09:00:00",53,45,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/21/2024","09:00","Australia",33,3,2,"Rescue Diver","N",NA,5,NA,NA,NA,NA,-3,NA,6,NA,NA,NA,NA,NA,-4,"DC",NA,NA,"2024-09-21 09:00:00",53,55,10,NA,NA,NA,NA,NA,NA
+"09/21/2024","09:30","United States",30,4,3,"Advanced Open Water Diver","Y",7,5,4,4,3,-2,-2,-4,6,4,3,1,-3,-3,-3,"BFD",7.8,30,"2024-09-21 09:30:00",53,55,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/21/2024","09:30","United States",31,4,3,"Advanced Open Water Diver","Y",6,2,1,1,-4,0,-1,-4,5,4,4,2,-1,-3,-4,"BFD",8,31.6666666666667,"2024-09-21 09:30:00",53,45,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/21/2024","09:30","Denmark",24,4,3,"Advanced Open Water Diver","Y",6,5,4,3,0,-1,-2,-4,4,3,3,-3,-4,-4,-4,"BFD",6,17.5,"2024-09-21 09:30:00",53,35,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/21/2024","09:30","Denmark",21,4,3,"Advanced Open Water Diver","Y",6,5,4,2,1,0,-2,-4,4,4,3,1,0,-2,-4,"BFD",8,35,"2024-09-21 09:30:00",53,35,10,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+"09/21/2024","10:00","Germany",25,2,10,"Open Water Diver","Y",4,2,4,3,1,0,0,-2,3,4,4,2,1,0,0,"WD",9,50,"2024-09-21 10:00:00",43,25,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"09/21/2024","10:00","Canada",26,4,9,"Advanced Open Water Diver","Y",6,5,NA,NA,NA,NA,-2,NA,3,NA,NA,-1,NA,NA,NA,"DC",NA,NA,"2024-09-21 10:00:00",43,25,10,NA,NA,NA,NA,NA,NA
+"09/21/2024","10:00","Indonesia",25,2,NA,"Advanced Open Water Diver","N",2,2,4,4,1,-1,-2,-4,2,4,4,0,-3,-4,-4,"DC",7,25,"2024-09-21 10:00:00",43,15,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/21/2024","11:30","Indonesia",29,2,6,"Open Water Diver","Y",8,5,3,3,1,-1,-1,-4,3,4,1,-3,-3,-3,-3,"BC",7.5,21.25,"2024-09-21 11:30:00",NA,25,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/21/2024","11:30","Turkey",25,2,6,"Try Scuba / DSD","Y",6,3,4,3,-1,-2,-3,-4,3,3,-1,-2,-3,-4,-4,"BC",5.5,12.5,"2024-09-21 11:30:00",NA,25,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/22/2024","9:00","Germany",29,4,7,"Open Water Diver","Y",3,3,4,3,-1,-2,-3,-4,3,4,2,0,-1,-3,-4,"Purple",5.5,25,"2024-09-22 09:00:00",54,25,6,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+"09/24/2024","9:00","United States",32,4,1,"Open Water Diver","Y",9,4,4,3,1,-3,-4,-4,4,4,1,-1,-4,-4,-4,"SCA",6.5,20,"2024-09-24 09:00:00",NA,35,8,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/24/2024","9:00","Germany",31,5,1,"Open Water Diver","Y",6,3,4,4,1,0,-3,-4,3,4,3,1,-2,-4,-4,"SCA",8,28.3333333333333,"2024-09-24 09:00:00",NA,25,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/24/2024","9:00","United States",32,4,1,"Open Water Diver","Y",9,5,4,4,-1,-2,-4,-4,4,4,1,-3,-4,-4,-4,"SCA",5.4,17.5,"2024-09-24 09:00:00",NA,35,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/24/2024","9:00","Germany",32,12,3,"Try Scuba / DSD","N",7,5,4,4,4,-2,-2,-4,4,4,4,4,1,-3,-4,"SCA",7.33333333333333,37.5,"2024-09-24 09:00:00",NA,35,10,NA,NA,TRUE,FALSE,FALSE,TRUE
+"09/24/2024","9:00","Malaysia",42,15,1,"Advanced Open Water Diver","Y",7,5,-2,-2,-3,-4,-4,-4,3,4,1,-3,-4,-4,-4,"DC",0,17.5,"2024-09-24 09:00:00",NA,25,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/24/2024","9:45","Germany",27,4,8,"Open Water Diver","Y",2,1,4,1,-1,-4,-4,-4,1,4,2,0,-2,-4,-4,"BC",5,25,"2024-09-24 09:45:00",NA,5,2,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/24/2024","12:47","Germany",31,6,12,"Open Water Diver","Y",5,2,3,2,0,-3,-3,-4,2,3,1,0,-2,-3,-4,"BC",6,25,"2024-09-24 12:47:00",NA,15,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/25/2024","8:30","Germany",34,3,5,"Open Water Diver","Y",7,3,-2,-2,-1,-2,-2,-2,3,-1,-1,-1,-1,-1,-1,"BC",0,NA,"2024-09-25 08:30:00",31,25,6,NA,NA,NA,NA,FALSE,TRUE
+"09/26/2024","8:00","Australia",26,4,2,"Open Water Diver","N",8,3,4,4,1,-1,-2,-4,6,4,2,2,-1,-4,-4,"Purple",7,30,"2024-09-26 08:00:00",50,55,6,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/26/2024","19:30","Singapore",25,4,2,"Open Water Diver","Y",9,5,-4,-4,0,1,2,3,5,-4,-4,-2,1,2,3,"Purple",6,31.6666666666667,"2024-09-26 19:30:00",NA,45,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"09/27/2024","10:00","Australia",67,1,6,"Advanced Open Water Diver","Y",9,4,-1,-1,-4,-4,-4,-4,6,-1,-1,-2,-4,-4,-4,"BC",0,-5,"2024-09-27 10:00:00",53,55,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/28/2024","08:00","Japan",24,2,2,"Open Water Diver","Y",5,1,3,1,1,-1,-1,-1,1,4,3,3,1,0,-1,"DC",7.5,45,"2024-09-28 08:00:00",20,5,2,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"09/28/2024","08:00","Germany",27,4,4,"Open Water Diver","N",7,5,4,3,2,0,-2,-3,NA,NA,NA,NA,NA,NA,NA,"DC",8,NA,"2024-09-28 08:00:00",20,NA,10,NA,NA,NA,NA,FALSE,TRUE
+"09/28/2024","08:00","Belgium",27,2,4,"Rescue Diver","N",6,3,4,4,1,-1,-1,-3,4,4,3,3,1,-1,-3,"DC",7.5,40,"2024-09-28 08:00:00",20,35,6,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"09/28/2024","08:00","Germany",28,5,5,"Open Water Diver","Y",8,3,2,1,0,-4,-1,-4,NA,NA,NA,NA,NA,NA,NA,"DC",6,NA,"2024-09-28 08:00:00",20,NA,6,NA,NA,NA,NA,TRUE,FALSE
+"09/28/2024","08:00","Germany",28,4,5,"Open Water Diver","Y",8,3,4,NA,NA,NA,NA,-4,NA,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-28 08:00:00",20,NA,6,NA,NA,NA,NA,NA,NA
+"09/28/2024","08:00","United States",29,4,8,"Advanced Open Water Diver","N",7,NA,4,4,-1,-3,-3,-2,4,4,2,0,-1,-2,-3,"DC",5.4,25,"2024-09-28 08:00:00",20,35,NA,TRUE,FALSE,FALSE,TRUE,NA,NA
+"09/28/2024","8:30","Australia",26,4,5,"Open Water Diver","N",7,4,4,4,-1,-1,-2,-4,5,4,4,2,2,-3,-4,"Purple",6.2,36,"2024-09-28 08:30:00",36,45,8,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+"09/28/2024","09:00","Germany",27,4,5,"Open Water Diver","N",6,3,4,3,3,-1,-2,-3,4,4,3,-1,-2,-4,-4,"DC",7.25,22.5,"2024-09-28 09:00:00",36,35,6,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/28/2024","09:00","France",24,3,3,"Try Scuba","Y",6,1,2,1,0,-3,-4,-4,1,4,3,0,-1,-2,-4,"DC",6,25,"2024-09-28 09:00:00",36,5,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/28/2024","09:00","France",26,3,8,"Try Scuba","Y",5,1,3,0,-1,-3,-2,-3,1,4,1,0,-1,-2,-3,"DC",4,25,"2024-09-28 09:00:00",36,5,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/28/2024","09:20","Belgium",26,4,3,"Professional Diver","N",7,NA,4,4,2,0,1,-1,3,4,4,3,1,0,-2,"DC",8,45,"2024-09-28 09:20:00",36,25,NA,TRUE,FALSE,TRUE,FALSE,NA,NA
+"09/28/2024","09:30","France",42,4,4,"Professional Diver","Y",4,2,4,4,0,-2,0,-3,4,3,1,0,-2,-3,-4,"DC",8,25,"2024-09-28 09:30:00",48,35,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/28/2024","11:00","Germany",58,10,6,"Advanced Open Water Diver","Y",5,2,-4,-4,-3,-3,-2,-2,3,-3,-3,-3,-3,-3,-3,"WD",0,NA,"2024-09-28 11:00:00",48,25,4,NA,NA,NA,NA,FALSE,TRUE
+"09/28/2024","11:00","Germany",53,5,7,"Advanced Open Water Diver","Y",8,2,0,-3,-2,-2,-4,-4,5,0,0,0,0,-4,-4,"WD",2,20,"2024-09-28 11:00:00",48,45,4,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/29/2024","07:30","United Kingdom",28,5,7,"Advanced Open Water Diver","Y",6,5,3,1,-2,-4,-2,-3,5,3,1,-1,-2,-3,-4,"DC",5.33333333333333,20,"2024-09-29 07:30:00",30,45,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/29/2024","07:30","United Kingdom",30,3,3,"Open Water Diver","Y",6,3,4,4,-1,-3,-3,-4,NA,NA,NA,NA,NA,NA,NA,"DC",5.4,NA,"2024-09-29 07:30:00",30,NA,6,NA,NA,NA,NA,FALSE,TRUE
+"09/29/2024","07:30","Singapore",32,8,4,"Advanced Open Water Diver","N",5,3,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-29 07:30:00",30,25,6,NA,NA,NA,NA,NA,NA
+"09/29/2024","08:00","Germany",23,3,NA,"Try Scuba / DSD","Y",7,5,NA,NA,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-09-29 08:00:00",30,55,10,NA,NA,NA,NA,NA,NA
+"09/29/2024","08:00","France",31,5,15,"Advanced Open Water Diver","Y",6,5,3,2,0,-1,-1,-4,3,3,1,-2,-1,-2,-4,"DC",6,25,"2024-09-29 08:00:00",30,25,10,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+"09/29/2024","08:00","Germany",45,2,10,"Advanced Open Water Diver","N",6,5,0,1,-2,-2,-2,-2,4,2,-2,-2,-3,-4,-4,"DC",2,12.5,"2024-09-29 08:00:00",30,35,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/29/2024","09:00","France",24,2,8,"Try Scuba / Try Scuba / DSD","N",5,3,NA,NA,3,NA,NA,NA,3,NA,NA,-1,NA,NA,NA,"Pure",NA,NA,"2024-09-29 09:00:00",43,25,6,NA,NA,NA,NA,NA,NA
+"09/29/2024","09:00","France",24,2,8,"Try Scuba / Try Scuba / DSD","N",5,3,NA,NA,3,NA,NA,NA,3,NA,NA,-1,NA,NA,NA,"Pure",NA,NA,"2024-09-29 09:00:00",43,25,6,NA,NA,NA,NA,NA,NA
+"09/29/2024","11:00","United States",24,5,10,"Advanced Open Water Diver","Y",6,NA,4,4,2,0,0,-4,3,4,2,-2,-3,-4,-4,"DC",9,20,"2024-09-29 11:00:00",45,25,NA,FALSE,TRUE,FALSE,TRUE,NA,NA
+"09/30/2024","08:00","Germany",25,4,20,"Advanced Open Water Diver","Y",7,5,4,4,0,-1,-3,-4,5,4,3,1,-1,-4,-4,"DC",6,30,"2024-09-30 08:00:00",50,45,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/30/2024","08:00","France",36,4,8,"Try Scuba / DSD","Y",6,4,4,3,2,1,0,-1,4,4,3,2,1,-1,-2,"DC",10,40,"2024-09-30 08:00:00",50,35,8,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/30/2024","08:00","France",31,4,6,"Try Scuba / DSD","Y",7,2,4,3,1,0,-2,-4,4,3,2,0,-1,-2,-3,"DC",8,25,"2024-09-30 08:00:00",50,35,4,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"09/30/2024","08:00","Germany",26,4,10,"Advanced Open Water Diver","Y",7,5,4,3,-1,-4,-4,-4,5,4,2,0,-3,-4,-4,"DC",5.5,25,"2024-09-30 08:00:00",50,45,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/30/2024","08:00","Portugal",27,4,8,"Try Scuba / DSD","Y",8,3,4,3,-1,-4,-4,-4,4,4,3,2,-2,-3,-4,"DC",5.5,30,"2024-09-30 08:00:00",50,35,6,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/30/2024","08:00","France",25,4,6,"Try Scuba / DSD","Y",8,5,4,3,-2,-4,-4,-4,4,4,2,1,-2,-4,-4,"DC",5.2,28.3333333333333,"2024-09-30 08:00:00",50,35,10,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/30/2024","09:00","Germany",31,2,5,"Open Water Diver","Y",3,3,NA,NA,4,NA,NA,NA,3,NA,NA,4,NA,NA,NA,"Pure",NA,NA,"2024-09-30 09:00:00",50,25,6,NA,NA,NA,NA,NA,NA
+"09/30/2024","11:00","France",35,3,10,"Advanced Open Water Diver","Y",5,1,3,3,0,-2,-2,-4,1,4,1,-1,-2,-3,-4,"DC",6,20,"2024-09-30 11:00:00",50,5,2,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/30/2024","11:00","France",28,3,10,"Open Water Diver","Y",7,4,4,3,2,-4,-3,-4,5,4,2,0,-2,-4,-4,"DC",7.6,25,"2024-09-30 11:00:00",50,45,8,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+"09/30/2024","11:00","France",35,1,10,"Open Water Diver","Y",5,3,4,4,2,-1,0,-4,3,4,3,2,-2,-3,-4,"DC",10,30,"2024-09-30 11:00:00",50,25,6,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"09/30/2024","11:15","United Kingdom",24,7,30,"Advanced Open Water Diver","Y",7,5,NA,NA,NA,NA,0,NA,NA,NA,0,NA,NA,NA,NA,"BFD",NA,NA,"2024-09-30 11:15:00",50,NA,10,NA,NA,NA,NA,NA,NA
+"10/01/2024","07:30","China",32,2,8,"Advanced Open Water Diver","Y",2,NA,NA,NA,NA,NA,NA,NA,3,4,3,3,1,1,-2,"DC",NA,45,"2024-10-01 07:30:00",20,25,NA,TRUE,FALSE,TRUE,FALSE,NA,NA
+"10/01/2024","08:00","Germany",28,3,20,"Open Water Diver","Y",6,3,4,4,4,-4,-4,-4,3,4,4,2,-3,-4,-4,"DC",7,29,"2024-10-01 08:00:00",20,25,6,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"10/01/2024","08:52","Germany",26,4,5,"Advanced Open Water Diver","N",NA,2,4,4,2,-3,-4,-4,1,4,3,2,0,-2,-3,"Pure",6.8,35,"2024-10-01 08:52:00",46,5,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"10/01/2024","08:52","Germany",27,4,5,"Advanced Open Water Diver","N",3,2,4,4,-2,-3,-4,-4,1,4,2,-1,-3,-4,-4,"Pure",5,21.6666666666667,"2024-10-01 08:52:00",46,5,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"10/01/2024","09:00","",26,4,10,"Advanced Open Water Diver","N",6,3,4,2,0,3,-2,-4,4,4,2,-3,-2,-4,-4,"DC",6,25,"2024-10-01 09:00:00",46,35,6,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"10/01/2024","10:30","Australia",30,5,10,"Advanced Open Water Diver","N",6,3,4,4,4,4,4,4,4,4,4,4,0,-1,-2,"DC",NA,35,"2024-10-01 10:30:00",46,35,6,FALSE,TRUE,TRUE,FALSE,NA,NA
+"10/01/2024","10:30","Malaysia",30,15,15,"Advanced Open Water Diver","N",5,2,4,3,2,-2,-2,-3,2,4,1,-1,-3,-3,-4,"DC",7.5,20,"2024-10-01 10:30:00",46,15,4,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+"10/01/2024","10:30","Singapore",28,15,10,"Advanced Open Water Diver","N",5,3,4,4,3,1,-1,-3,NA,NA,NA,NA,NA,NA,NA,"DC",9,NA,"2024-10-01 10:30:00",46,NA,6,NA,NA,NA,NA,TRUE,FALSE
+"10/02/2024","08:06","France",22,3,10,"Open Water Diver","Y",NA,2,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,"BANP",NA,NA,"2024-10-02 08:06:00",47,35,4,NA,NA,NA,NA,NA,NA
+"10/03/2024","10:30","Germany",23,4,15,"Professional Diver","Y",7,5,2,2,1,2,1,-4,1,4,3,-1,1,-3,-4,"DC",8.8,30,"2024-10-03 10:30:00",47,5,10,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+"10/04/2024","12:00","Germany",23,4,10,"Professional Diver","N",2,2,4,3,2,-2,-3,-4,1,4,3,2,-2,-3,-4,"DC",7,30,"2024-10-04 12:00:00",14,5,4,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","08:00","France",32,5,20,"Advanced Open Water Diver","Y",7,5,4,1,-4,-2,-2,-4,2,4,-1,-1,-4,-4,-4,"DC",5.66666666666667,17,"2024-10-07 08:00:00",NA,15,10,NA,NA,TRUE,FALSE,FALSE,TRUE
+"10/07/2024","08:30","Denmark",25,4,10,"Open Water Diver","Y",4,2,4,4,0,-4,-2,-4,3,4,3,2,-3,-3,-4,"DC",6,31,"2024-10-07 08:30:00",NA,25,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","08:30","Denmark",26,6,6,"Open Water Diver","Y",4,3,2,3,4,NA,0,3,2,4,4,4,NA,4,4,"DC",NA,NA,"2024-10-07 08:30:00",NA,15,6,NA,NA,NA,NA,NA,NA
+"10/07/2024","08:30","Denmark",23,7,10,"Open Water Diver","Y",4,3,2,1,-2,-2,-3,-4,3,2,0,-2,-3,-4,-4,"DC",5,15,"2024-10-07 08:30:00",NA,25,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/07/2024","08:30","Denmark",25,4,10,"Open Water Diver","Y",4,3,4,4,3,0,-2,-4,2,4,3,0,-2,-4,-4,"DC",8,25,"2024-10-07 08:30:00",NA,15,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","08:30","Denmark",24,4,11,"Open Water Diver","Y",3,2,4,4,1,-2,-4,-4,3,4,4,2,-3,-4,-4,"DC",6.66666666666667,29,"2024-10-07 08:30:00",NA,25,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","08:30","Denmark",24,4,10,"Open Water Diver","Y",5,2,4,3,2,-3,-3,-3,3,4,4,2,-2,-3,-4,"DC",7.6,30,"2024-10-07 08:30:00",NA,25,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","08:30","Denmark",24,4,10,"Open Water Diver","Y",4,2,4,4,2,0,-1,-2,4,4,4,4,2,1,0,"DC",8,55,"2024-10-07 08:30:00",NA,35,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","09:00","Finland",29,5,8,"Open Water Diver","Y",4,2,4,3,1,-1,-2,-3,2,4,3,1,-2,-3,-3,"DC",7,28.3333333333333,"2024-10-07 09:00:00",NA,15,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","09:00","Canada",17,9,9,"Open Water Diver","Y",4,1,4,2,-2,-3,-3,-4,2,4,2,0,-3,-4,-4,"DC",5,25,"2024-10-07 09:00:00",NA,15,2,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/07/2024","09:30","Germany",25,5,6,"Advanced Open Water Diver","Y",8,6,4,4,2,-2,-3,-4,6,4,0,-2,-4,-4,-4,"DC",7,15,"2024-10-07 09:30:00",NA,55,12,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/07/2024","11:13","United Kingdom",29,7,10,"Professional Diver","Y",6,3,3,3,0,-1,-3,-4,3,4,2,0,-2,-4,-4,"SJP",6,25,"2024-10-07 11:13:00",NA,25,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/08/2024","09:20","France",31,12,5,"Advanced Open Water Diver","N",8,5,NA,NA,NA,NA,-4,NA,4,NA,NA,NA,-4,NA,NA,"BANP",NA,NA,"2024-10-08 09:20:00",28,35,10,NA,NA,NA,NA,NA,NA
+"10/08/2024","09:30","France",28,12,5,"Professional Diver","N",8,5,NA,NA,NA,NA,-4,NA,4,NA,NA,NA,-4,NA,NA,"BANP",NA,NA,"2024-10-08 09:30:00",28,35,10,NA,NA,NA,NA,NA,NA
+"10/08/2024","10:30","Romania",34,5,7,"Open Water Diver","Y",8,3,3,2,1,-1,-2,-4,3,2,0,-1,-2,-4,-4,"DC",7,15,"2024-10-08 10:30:00",28,25,6,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+"10/08/2024","11:00","Singapore",27,5,6,"Rescue Diver","N",9,5,1,3,-1,-3,-3,-4,5,4,3,-1,-3,-4,-4,"BC",4,22.5,"2024-10-08 11:00:00",NA,45,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/10/2024","8:40","United Kingdom",23,7,7,"Open Water Diver","Y",6,3,4,4,2,1,0,-2,4,4,4,3,0,-1,-2,"CD",10,35,"2024-10-10 08:40:00",32,35,6,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"10/10/2024","8:45","Australia",21,7,7,"Open Water Diver","Y",5,3,4,3,1,-1,-2,-3,3,4,4,3,0,-2,-3,"CD",7,35,"2024-10-10 08:45:00",32,25,6,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+"10/12/2024","10:00","United Kingdom",47,6,3,"Open Water Diver","N",6,5,3,2,0,-2,-3,-4,2,3,1,0,-3,-4,-4,"Others",6,25,"2024-10-12 10:00:00",NA,15,10,NA,NA,TRUE,FALSE,FALSE,TRUE
+"10/21/2024","10:00","France",30,3,5,"Try Scuba / DSD","Y",8,6,3,2,1,-3,-3,-4,5,3,2,1,0,-3,-4,"Purple",6.75,35,"2024-10-21 10:00:00",NA,45,12,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/26/2024","10:00","Australia",32,6,2,"Open Water Diver","Y",7,3,-2,-2,-2,-2,-4,-4,2,-1,-1,-2,-3,-3,-3,"Purple",0,-5,"2024-10-26 10:00:00",NA,15,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/28/2024","8:45","Austria",24,2,7,"Professional Diver","Y",3,2,-1,-1,-4,-4,-4,-4,1,0,-2,-3,-3,-4,-4,"BC",0,5,"2024-10-28 08:45:00",NA,5,4,NA,NA,TRUE,FALSE,FALSE,TRUE
+"10/29/2024","7:30","Spain",30,2,4,"Try Scuba / DSD","Y",8,3,3,3,0,0,-4,-4,3,4,3,-4,-4,-4,-4,"Purple",7,25.7142857142857,"2024-10-29 07:30:00",NA,25,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/29/2024","08:30","Germany",30,4,10,"Try Scuba / Try Scuba / DSD","Y",4,NA,4,4,3,-1,-2,-2,NA,4,-2,-2,-4,-4,-4,"DC",7.5,15,"2024-10-29 08:30:00",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10/29/2024","08:30","Belgium",62,2,10,"Advanced Open Water Diver","Y",5,3,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-10-29 08:30:00",NA,15,6,NA,NA,NA,NA,NA,NA
+"10/29/2024","08:30","",32,3,5,"Open Water Diver","Y",NA,3,3,4,2,-3,-2,-4,3,4,4,0,-3,-4,-4,"DC",8,25,"2024-10-29 08:30:00",NA,25,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/29/2024","08:30","Spain",34,3,7,"Open Water Diver","Y",NA,3,4,4,1,-3,-3,-4,3,4,4,0,-3,-3,-4,"DC",6.75,25,"2024-10-29 08:30:00",NA,25,6,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/29/2024","08:30","Netherlands",23,2,10,"Open Water Diver","Y",4,3,NA,NA,3,NA,NA,NA,2,NA,3,NA,NA,NA,NA,"DC",NA,NA,"2024-10-29 08:30:00",NA,15,6,NA,NA,NA,NA,NA,NA
+"10/29/2024","08:30","Netherlands",25,2,6,"Open Water Diver","Y",5,3,NA,NA,3,NA,NA,NA,2,NA,4,NA,NA,NA,NA,"DC",NA,NA,"2024-10-29 08:30:00",NA,15,6,NA,NA,NA,NA,NA,NA
+"10/29/2024","09:30","Netherlands",33,3,3,"Open Water Diver","Y",3,3,4,4,4,NA,NA,NA,2,NA,3,NA,NA,NA,NA,"DC",NA,NA,"2024-10-29 09:30:00",NA,15,6,NA,NA,NA,NA,NA,NA
+"10/30/2024","08:00","United States",27,1,1,"Open Water Diver","Y",7,5,4,1,-1,-4,-4,-4,NA,NA,NA,NA,NA,NA,NA,"DC",5,NA,"2024-10-30 08:00:00",NA,NA,10,NA,NA,NA,NA,FALSE,TRUE
+"10/30/2024","08:00","Ireland",28,3,1,"Open Water Diver","Y",5,5,NA,NA,NA,NA,NA,-4,NA,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-10-30 08:00:00",NA,NA,10,NA,NA,NA,NA,NA,NA
+"10/30/2024","08:00","Ecuador",26,3,1,"Open Water Diver","Y",7,5,4,3,2,-2,-3,-4,NA,NA,NA,NA,NA,NA,NA,"DC",7,NA,"2024-10-30 08:00:00",NA,NA,10,NA,NA,NA,NA,FALSE,TRUE
+"10/30/2024","08:50","Malaysia",34,3,0,"Advanced Open Water Diver","N",NA,5,NA,NA,NA,NA,-2,NA,NA,NA,0,NA,NA,NA,NA,"DC",NA,NA,"2024-10-30 08:50:00",31,NA,10,NA,NA,NA,NA,NA,NA
+"10/30/2024","09:30","",40,6,1,"Advanced Open Water Diver","Y",NA,4,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-10-30 09:30:00",31,35,8,NA,NA,NA,NA,NA,NA
+"10/31/2024","08:00","France",21,4,7,"Try Scuba / Try Scuba / DSD","Y",1,1,4,4,4,2,0,-2,2,4,4,3,1,0,-2,"DC",10,45,"2024-10-31 08:00:00",NA,15,2,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/31/2024","08:00","Denmark",37,4,10,"Advanced Open Water Diver","Y",5,3,NA,NA,-1,NA,NA,NA,2,4,3,1,0,-1,-1,"DC",NA,35,"2024-10-31 08:00:00",NA,15,6,NA,NA,TRUE,FALSE,NA,NA
+"10/31/2024","08:00","Spain",25,1,10,"Open Water Diver","Y",3,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"DC",NA,NA,"2024-10-31 08:00:00",NA,NA,6,NA,NA,NA,NA,NA,NA
+"10/31/2024","09:00","Germany",26,4,7,"Try Scuba / Try Scuba / DSD","Y",3,3,3,1,NA,-3,-4,-4,3,4,1,-1,-4,-4,-4,"DC",NA,20,"2024-10-31 09:00:00",NA,25,6,NA,NA,FALSE,TRUE,NA,NA
+"10/31/2024","09:00","Netherlands",23,4,7,"Advanced Open Water Diver","Y",5,3,3,3,-2,-3,-4,-4,3,4,2,0,-3,-4,-4,"DC",4.8,25,"2024-10-31 09:00:00",NA,25,6,NA,NA,TRUE,FALSE,FALSE,TRUE
+"09/18/2025","8:41","Germany",49,6,1,"Advanced Open Water Diver","Y",3,1,3,3,1,1,-3,-4,2,4,4,3,0,-1,-2,"CD",7.75,35,"2025-09-18 08:41:00",NA,15,2,NA,NA,TRUE,FALSE,TRUE,FALSE
+"09/13/2024","","France",31,2,5,"Open Water Diver","Y",NA,2,NA,2,NA,NA,NA,NA,2,NA,1,NA,NA,NA,NA,"DC",NA,NA,NA,NA,15,4,NA,NA,NA,NA,NA,NA
+"09/13/2024","","Maldives",33,2,4,"Professional Diver","Y",NA,1,4,NA,NA,NA,NA,NA,1,4,NA,NA,NA,NA,NA,"DC",NA,NA,NA,NA,5,2,NA,NA,NA,NA,NA,NA
+"09/14/2024","","Thailand",33,4,4,"Advanced Open Water Diver","Y",NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,"DC",NA,NA,NA,NA,5,2,NA,NA,NA,NA,NA,NA
+"09/18/2024","","United Kingdom",55,2,4,"Advanced Open Water Diver","Y",5,5,2,4,4,0,0,4,3,4,4,4,4,4,4,"DC",9,NA,NA,NA,25,10,NA,NA,NA,NA,FALSE,TRUE
+"09/21/2024","","Argentina",35,4,7,"Rescue Diver","Y",3,4,NA,NA,NA,4,NA,NA,5,NA,NA,NA,NA,3,NA,"DC",NA,NA,NA,NA,45,8,NA,NA,NA,NA,NA,NA
+"10/01/2024","","Netherlands",25,3,10,"Open Water Diver","Y",7,2,4,2,1,-4,-3,-4,3,4,1,-1,-3,-4,-4,"DC",7,20,NA,NA,25,4,NA,NA,FALSE,TRUE,TRUE,FALSE
+"10/01/2024","","Netherlands",25,3,NA,"Open Water Diver","Y",7,3,4,2,-1,-2,-2,-4,4,4,0,-2,-4,-4,-4,"DC",5.33333333333333,15,NA,NA,35,6,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/01/2024","","China",33,2,7,"Advanced Open Water Diver","Y",6,2,3,1,-3,-4,-4,-4,NA,NA,NA,NA,NA,NA,NA,"DC",4.5,NA,NA,NA,NA,4,NA,NA,NA,NA,TRUE,FALSE
+"09/29/2024","","Germany",23,3,3,"Open Water Diver","Y",5,5,4,4,-2,-4,-4,-4,NA,4,1,-4,-4,-4,-4,"DC",5,20,NA,NA,NA,10,NA,NA,NA,NA,FALSE,TRUE
+"09/29/2024","","Germany",23,3,3,"Open Water Diver","Y",5,5,4,3,1,-3,-3,-3,3,4,2,-4,-4,-4,-4,"DC",7,23.3333333333333,NA,NA,25,10,NA,NA,FALSE,TRUE,FALSE,TRUE
+"10/31/2024","","France",18,4,7,"Try Scuba / Try Scuba / DSD","Y",NA,2,4,4,4,2,-1,-3,2,4,4,4,2,-1,-4,"DC",9.33333333333333,41.6666666666667,NA,NA,15,4,NA,NA,TRUE,FALSE,TRUE,FALSE
+"10/29/2024","","Belgium",52,3,10,"Open Water Diver","N",1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"DC",NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA
+"10/30/2024","","Netherlands",48,3,2,"Professional Diver","Y",4,2,NA,3,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,"DC",NA,NA,NA,NA,25,4,NA,NA,NA,NA,NA,NA
